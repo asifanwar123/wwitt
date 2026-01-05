@@ -1,0 +1,7 @@
+{
+  "name": "World Wave International Travel and Tours",
+  "description": "A premium travel agency website for World Wave International, based in Lodhran, Pakistan, featuring personalized tours, luxury vacations, and AI-powered trip planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
